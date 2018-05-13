@@ -1,0 +1,9 @@
+<FGS052_152_55_Mle_1936.model>
+	<exporter>	1.6	</exporter>
+	<parent>	content/gameplay/france/gun/secondary/FGS509_152_55_Mle_1937/lods/FGS509_152_55_Mle_1937_lod1	</parent>
+	<extent>	2.0000	</extent>
+	<castsShadow>	true	</castsShadow>
+	<materialNames />
+	<nodefullVisual>	content/gameplay/france/gun/secondary/FGS509_152_55_Mle_1937/FGS509_152_55_Mle_1937	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</FGS052_152_55_Mle_1936.model>

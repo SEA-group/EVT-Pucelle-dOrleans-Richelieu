@@ -1,0 +1,8 @@
+<FSB002_Richelieu_1940_Stern.model>
+	<exporter>	1.6	</exporter>
+	<parent>	content/gameplay/france/ship/battleship/FSB018_Richelieu_1940_3D_skin_Royal/lods/FSB018_Richelieu_1940_3D_skin_Royal_Stern_lod1	</parent>
+	<extent>	8.0000	</extent>
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	content/gameplay/france/ship/battleship/FSB018_Richelieu_1940_3D_skin_Royal/FSB018_Richelieu_1940_3D_skin_Royal_Stern	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</FSB002_Richelieu_1940_Stern.model>
